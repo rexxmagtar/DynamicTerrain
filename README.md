@@ -14,6 +14,7 @@
 
 ## Пример работы
 
-Редактирование анимаций ![image](https://user-images.githubusercontent.com/51932532/137226620-10b4d895-23d8-4093-9240-12158cab896e.png)
+Редактирование анимаций:
+![image](https://user-images.githubusercontent.com/51932532/137226620-10b4d895-23d8-4093-9240-12158cab896e.png)
 
 

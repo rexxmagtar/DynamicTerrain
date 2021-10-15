@@ -18,4 +18,10 @@
 
 ![image](https://user-images.githubusercontent.com/51932532/137226620-10b4d895-23d8-4093-9240-12158cab896e.png)
 
+Демонстрация работы:
+
+
+https://user-images.githubusercontent.com/51932532/137492698-bdbbdaf9-6df0-4d81-a7e1-6c44859153bf.mov
+
+
 
